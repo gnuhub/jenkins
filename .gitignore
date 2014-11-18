@@ -5,7 +5,7 @@ work
 *.iml
 *.iws
 *.ipr
-.idea
+#.idea
 out
 
 # eclipse project file
